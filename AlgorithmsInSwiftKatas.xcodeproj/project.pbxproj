@@ -24,6 +24,7 @@
 		61D919FE263760280049012B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		61D91A01263760280049012B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		61D91A03263760280049012B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		61D91A0A263762570049012B /* ArraysPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ArraysPlayground.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +64,7 @@
 				61D919FE263760280049012B /* Assets.xcassets */,
 				61D91A00263760280049012B /* LaunchScreen.storyboard */,
 				61D91A03263760280049012B /* Info.plist */,
+				61D91A0A263762570049012B /* ArraysPlayground.playground */,
 			);
 			path = AlgorithmsInSwiftKatas;
 			sourceTree = "<group>";
